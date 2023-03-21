@@ -1,0 +1,39 @@
+*.mo
+*.cache
+*.class
+*.classpath
+*.eml
+*.exe
+*.idea
+*.iml
+*.o
+*.project
+*.pyc
+*.suo
+*.user
+*.ropeproject
+.DS_Store
+.pbdeps
+*.releaseBackup
+.settings
+.slashcache
+.slashtimestamps
+.tarfiles
+.*.swp
+.pydevproject
+.gradle
+
+# Ignore maven build outputs
+target
+META-INF
+artifacts
+assembly-jars
+
+# Ignore Jenkins build outputs
+.jenkinsTests
+
+.vscode/
+venv/*
+
+# ignore scala worksheet
+*.sc
