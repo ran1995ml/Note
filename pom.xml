@@ -12,6 +12,12 @@
         <module>Kafka</module>
         <module>DataStructure</module>
         <module>JavaSE</module>
+        <module>DataStructure/Leetcode</module>
+        <module>Kubernetes</module>
+        <module>ZooKeeper</module>
+        <module>Druid</module>
+        <module>SpringBoot</module>
+        <module>DesignPattern</module>
     </modules>
 
     <properties>

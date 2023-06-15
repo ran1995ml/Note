@@ -22,14 +22,14 @@ import java.util.Properties;
 public class KafkaConsumerClient {
     public static void main(String[] args) {
         Properties props = new Properties();
-//        props.put("bootstrap.servers", "rccp202-11f.iad5.prod.conviva.com:32511,rccp202-11g.iad5.prod.conviva.com:32511,rccp203-11e.iad5.prod.conviva.com:32511,rccp203-11f.iad5.prod.conviva.com:32511,rccp203-11g.iad5.prod.conviva.com:32511,rccp204-11a.iad5.prod.conviva.com:32511,rccp204-11b.iad5.prod.conviva.com:32511,rccp204-11c.iad5.prod.conviva.com:32511");
+        props.put("bootstrap.servers",  "rccp109-5d.iad4.prod.conviva.com:30201,rccp110-5c.iad4.prod.conviva.com:30202,rccp111-5b.iad4.prod.conviva.com:30203,rccp111-5d.iad4.prod.conviva.com:30204");
         props.put("group.id", "test");
         props.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
         props.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
 
         KafkaConsumer<String, String> consumer = new KafkaConsumer<String, String>(props);
 
-        consumer.subscribe(Collections.singleton("tlb-rt-ad-sess-summary"));
+        consumer.subscribe(Collections.singleton("tlb-rt-sess-summary-hulu"));
 
         while (true) {
             ConsumerRecords<String, String> records = consumer.poll(Duration.of(2, ChronoUnit.SECONDS));

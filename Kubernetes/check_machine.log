@@ -1,0 +1,457 @@
+
+start check server:rccp301-6a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.8G   12G  19% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503          89         375           0          37         410
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.5 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp301-6a.iad6.prod.conviva.com 
+
+
+start check server:rccp301-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         499           0           2         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp301-34a.iad6.prod.conviva.com 
+
+
+start check server:rccp302-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         499           0           2         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp302-34a.iad6.prod.conviva.com 
+
+
+start check server:rccp303-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         499           0           2         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp303-34a.iad6.prod.conviva.com 
+
+
+start check server:rccp304-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         499           0           2         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp304-34a.iad6.prod.conviva.com 
+
+
+start check server:rccp305-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         499           0           2         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp305-34a.iad6.prod.conviva.com 
+
+
+start check server:rccp306-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         497           0           4         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp306-34a.iad6.prod.conviva.com 
+
+
+start check server:rccp307-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         493           0           8         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## finish ################################
+end check server:rccp307-34a.iad6.prod.conviva.com 
+
+
+start check server:rccp307-34a.iad6.prod.conviva.com
+############## df ########################
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/md2--crypt-lvroot   16G  2.4G   13G  17% /
+############## memory #################################
+              total        used        free      shared  buff/cache   available
+Mem:            503           1         493           0           8         498
+Swap:            31           0          31
+############## cpu ####################################
+processor	: 0
+processor	: 1
+processor	: 2
+processor	: 3
+processor	: 4
+processor	: 5
+processor	: 6
+processor	: 7
+processor	: 8
+processor	: 9
+processor	: 10
+processor	: 11
+processor	: 12
+processor	: 13
+processor	: 14
+processor	: 15
+processor	: 16
+processor	: 17
+processor	: 18
+processor	: 19
+processor	: 20
+processor	: 21
+processor	: 22
+processor	: 23
+processor	: 24
+processor	: 25
+processor	: 26
+processor	: 27
+processor	: 28
+processor	: 29
+processor	: 30
+processor	: 31
+############## version ################################
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.6 LTS
+Release:	20.04
+Codename:	focal
+############## telnet #################################
+Trying 34.239.63.101...
+Connected to cc.imply.io.
+Escape character is '^]'.
+
+telnet> close
+Connection closed.
+############## finish ################################
+end check server:rccp307-34a.iad6.prod.conviva.com 
+

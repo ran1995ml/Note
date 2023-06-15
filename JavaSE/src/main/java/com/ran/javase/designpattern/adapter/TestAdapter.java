@@ -2,7 +2,7 @@ package com.ran.javase.designpattern.adapter;
 
 /**
  * TestAdapter
- *
+ * 适配器模式，将220V的电池通过适配器模式转换成5V的
  * @author rwei
  * @since 2023/3/10 17:50
  */
