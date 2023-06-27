@@ -1,5 +1,7 @@
 package com.ran.designpattern.factory;
 
+import com.ran.designpattern.factory.abstractfactory.Factory;
+import com.ran.designpattern.factory.abstractfactory.PizzaSourceFactory;
 import com.ran.designpattern.factory.factory.ChinaPizzaFactory;
 import com.ran.designpattern.factory.factory.PizzaFactory;
 import com.ran.designpattern.factory.simplefactory.SimplePizzaFactory;
@@ -19,5 +21,10 @@ public class Main {
         //工厂模式
         PizzaFactory pizzaFactory = new ChinaPizzaFactory();
         Pizza pizza1 = pizzaFactory.createPizza("cheese");
+
+        //抽象工厂模式
+        Factory factory = new PizzaSourceFactory();
+        Pizza pizza2 = factory.createPizza();
+        Cheese cheese = factory.createCheese();
     }
 }

@@ -1,13 +1,11 @@
 #!/bin/bash
 my_array=(
-#rccp301-6a.iad6.prod.conviva.com
-#rccp301-34a.iad6.prod.conviva.com
-#rccp302-34a.iad6.prod.conviva.com
-#rccp303-34a.iad6.prod.conviva.com
-#rccp304-34a.iad6.prod.conviva.com
-#rccp305-34a.iad6.prod.conviva.com
-#rccp306-34a.iad6.prod.conviva.com
-rccp307-34a.iad6.prod.conviva.com
+rccp401-1.iad6.prod.conviva.com
+rccp401-2.iad6.prod.conviva.com
+rccp402-1.iad6.prod.conviva.com
+rccp402-2.iad6.prod.conviva.com
+rccp403-1.iad6.prod.conviva.com
+rccp403-2.iad6.prod.conviva.com
 )
 command="echo '############## df ########################';"
 command+='df -h /;'

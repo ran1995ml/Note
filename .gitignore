@@ -22,6 +22,7 @@
 .*.swp
 .pydevproject
 .gradle
+.log
 
 # Ignore maven build outputs
 target
